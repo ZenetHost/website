@@ -31,6 +31,9 @@
         <loc>/pricing.html</loc>
     </url>
     <url>
+        <loc>/pricing-old.html</loc>
+    </url>
+    <url>
         <loc>/utils.html</loc>
     </url>
 </urlset>
