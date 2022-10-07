@@ -1,42 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
-        <loc>/docs/refund-policy.html</loc>
+        <loc>https://zenet.host/docs/refund-policy.html</loc>
     </url>
     <url>
-        <loc>/hostable/free.html</loc>
+        <loc>https://zenet.host/register/tuts/ticket-register.html</loc>
     </url>
     <url>
-        <loc>/hostable/plus.html</loc>
+        <loc>https://zenet.host/register/freeplan.html</loc>
     </url>
     <url>
-        <loc>/hostable/pro.html</loc>
+        <loc>https://zenet.host/discord.html</loc>
     </url>
     <url>
-        <loc>/pay/plus.html</loc>
+        <loc>https://zenet.host/files.html</loc>
     </url>
     <url>
-        <loc>/register/tuts/ticket-register.html</loc>
+        <loc>https://zenet.host/</loc>
     </url>
     <url>
-        <loc>/register/freeplan.html</loc>
+        <loc>https://zenet.host/pricing.html</loc>
     </url>
     <url>
-        <loc>/discord.html</loc>
-    </url>
-    <url>
-        <loc>/files.html</loc>
-    </url>
-    <url>
-        <loc>/</loc>
-    </url>
-    <url>
-        <loc>/pricing.html</loc>
-    </url>
-    <url>
-        <loc>/pricing-old.html</loc>
-    </url>
-    <url>
-        <loc>/utils.html</loc>
+        <loc>https://zenet.host/utils.html</loc>
     </url>
 </urlset>
